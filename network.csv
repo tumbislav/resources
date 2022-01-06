@@ -1,0 +1,70 @@
+IZ,V
+Portal,Informativni Izračuni
+Portal,Sklepalniki
+Portal,Svetovalniki
+Portal,WWW
+Portal,Prijava Škode
+Portal,Chat
+Portal,Sporočila
+Portal,Video Klic
+Portal,Spletni Klic
+Portal,Zahtevki
+Portal,Plačilni Modul
+Portal,Podpis
+Portal,Privolitve
+Portal,SSO
+Portal,Next Best Offer
+Portal,Naročilo zastopnika
+Informativni Izračuni,Sklepalniki
+Informativni Izračuni,Svetovalniki
+Informativni Izračuni,WWW
+Informativni Izračuni,Chat
+Informativni Izračuni,Video Klic
+Informativni Izračuni,Spletni Klic
+Informativni Izračuni,Zgodovina interakcij
+Informativni Izračuni,Privolitve
+Informativni Izračuni,SSO
+Informativni Izračuni,Naročilo zastopnika
+Sklepalniki,Svetovalniki
+Sklepalniki,Chat
+Sklepalniki,Video Klic
+Sklepalniki,Spletni Klic
+Sklepalniki,Zgodovina interakcij
+Sklepalniki,Plačilni Modul
+Sklepalniki,Podpis
+Sklepalniki,Privolitve
+Sklepalniki,SSO
+Sklepalniki,Next Best Offer
+WWW,Prijava Škode
+WWW,Chat
+WWW,Sporočila
+WWW,Video Klic
+WWW,Spletni Klic
+WWW,Zgodovina interakcij
+WWW,SSO
+Prijava Škode,Chat
+Prijava Škode,Sporočila
+Prijava Škode,Video Klic
+Prijava Škode,Spletni Klic
+Prijava Škode,Zgodovina interakcij
+Prijava Škode,Podpis
+Prijava Škode,Privolitve
+Prijava Škode,SSO
+Chat,Zgodovina interakcij
+Chat,Privolitve
+Chat,SSO
+Sporočila,Zgodovina interakcij
+Sporočila,Privolitve
+Sporočila,SSO
+Video Klic,Zgodovina interakcij
+Spletni Klic,Zgodovina interakcij
+Spletni Klic,Privolitve
+Spletni Klic,SSO
+Zahtevki,Zgodovina interakcij
+Zahtevki,Podpis
+Zahtevki,Privolitve
+Zgodovina interakcij,Plačilni Modul
+Zgodovina interakcij,Podpis
+Zgodovina interakcij,Privolitve
+Podpis,Privolitve
+Privolitve,SSO
